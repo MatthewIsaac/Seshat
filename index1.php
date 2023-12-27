@@ -14,7 +14,9 @@ include("connect.php");
     <title>Seshat's Scribes</title>
 </head>
 <body>
-    <!--- <img src="images/pic.jpeg" alt="Image of book cover"> -->
+    <!--- <img src="images/pic.jpeg" alt="Image of book cover"> 
+           just making an edit to test-->
+
     <header>
         <div class="flexbox-container">
             <div class="flexbox-item flexbox-item-1">
