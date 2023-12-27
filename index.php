@@ -13,8 +13,6 @@ include("connect.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="bookStyles.css" />
 
-
-
     <title>Seshat's Scribes</title>
 </head>
 <body>
@@ -34,30 +32,6 @@ include("connect.php");
         </ul>
         </header>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <div class="header-container">
         <?php if(!isset($_SESSION['user_name'])): ?>
