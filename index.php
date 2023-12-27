@@ -36,29 +36,6 @@ include("connect.php");
     </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <div class="header-container">
         <?php if(!isset($_SESSION['user_name'])): ?>
             <div class="header-item header-item-1">
